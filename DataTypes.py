@@ -36,7 +36,7 @@ out=True
 
 print(f"on:{on},off:{off}")
 
-if inside:  #boolean is commenly used in conditions here the elif part will print cause out=True so as in conditions when its true it gets executed
+if inside:  #boolean is commonly used in conditions here the elif part will print cause out=True so as in conditions when its true it gets executed
     print("its in")
 elif out:
     print("its out")
