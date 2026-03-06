@@ -17,4 +17,9 @@ print(age,name,height,weight)
 
 print("you are",age,"years old")
 print(f"you are {age} years old")  #f-string 
-print("you are"+str(age)+"years old")
+print("you are"+str(age)+"years old") 
+"""type casting - we cannot concatinate a number to string so we need to change the number into string using type casting str() 
+ string concatination """  #Multi-line Command
+
+x=y=z=1
+print(x,y,z)
