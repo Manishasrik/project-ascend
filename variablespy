@@ -1,0 +1,7 @@
+age=19
+name="Manisha"  //we need to add "" for string values
+height=162
+
+print(age)
+print(name)
+print(height)
